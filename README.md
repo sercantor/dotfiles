@@ -1,1 +1,1 @@
-# merhaba arkadaslar bugun sizlerle 
+# configuration files for Xresources, mpv, i3blocks etc. 
